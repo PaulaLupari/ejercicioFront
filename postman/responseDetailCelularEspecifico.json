@@ -1,0 +1,18 @@
+{
+  "author": {
+    "name": "Paula",
+    "lastname": "Lupari"
+  },
+  "id": "MLA914656107",
+  "title": "Samsung Galaxy A12 64 Gb Azul 4 Gb Ram",
+  "category_id": "MLA1055",
+  "price": {
+    "currency": "ARS",
+    "amount": 30999,
+    "decimals": 30999
+  },
+  "picture": "http://http2.mlstatic.com/D_639855-MLA45385147182_032021-I.jpg",
+  "condition": "new",
+  "free_shipping": true,
+  "sold_quantity": 250
+}

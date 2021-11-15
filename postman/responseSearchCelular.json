@@ -1,0 +1,60 @@
+{
+  "author": {
+    "name": "Paula",
+    "lastname": "Lupari"
+  },
+  "items": [
+    {
+      "id": "MLA914656107",
+      "title": "Samsung Galaxy A12 64 Gb Azul 4 Gb Ram",
+      "category_id": "MLA1055",
+      "price": {
+        "currency": "ARS",
+        "amount": 30999,
+        "decimals": 30999
+      },
+      "picture": "http://http2.mlstatic.com/D_639855-MLA45385147182_032021-I.jpg",
+      "condition": "new",
+      "free_shipping": true
+    },
+    {
+      "id": "MLA1112126568",
+      "title": " Moto G20 64 Gb Azul Cielo 4 Gb Ram",
+      "category_id": "MLA1055",
+      "price": {
+        "currency": "ARS",
+        "amount": 31670,
+        "decimals": 31670
+      },
+      "picture": "http://http2.mlstatic.com/D_601015-MLA47152736489_082021-I.jpg",
+      "condition": "new",
+      "free_shipping": true
+    },
+    {
+      "id": "MLA1106078119",
+      "title": "Quantum Yolo Dual Sim 32 Gb Negro 1 Gb Ram",
+      "category_id": "MLA1055",
+      "price": {
+        "currency": "ARS",
+        "amount": 12499,
+        "decimals": 12499
+      },
+      "picture": "http://http2.mlstatic.com/D_600825-MLA47517884338_092021-I.jpg",
+      "condition": "new",
+      "free_shipping": true
+    },
+    {
+      "id": "MLA918474630",
+      "title": "Samsung Galaxy A32 128 Gb Awesome Black 4 Gb Ram",
+      "category_id": "MLA1055",
+      "price": {
+        "currency": "ARS",
+        "amount": 46999,
+        "decimals": 46999
+      },
+      "picture": "http://http2.mlstatic.com/D_630807-MLA45658531680_042021-I.jpg",
+      "condition": "new",
+      "free_shipping": true
+    }
+  ]
+}
